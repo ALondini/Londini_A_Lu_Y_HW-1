@@ -13,6 +13,16 @@ Likes: Pasta, Yellow, Puzzles
 
 ![Books](images/Books.jpg)
 
+## Yi Lu
+
+Background: Chinese
+
+Hobbies: Video games, Cooking, Reading
+
+Likes: Animals, Lego
+
+![pusheen-gaming-me-as-fweak](images/pusheen-gaming-me-as-fweak.gif)
+
 ## Contributing
 
 1. Fork it!
